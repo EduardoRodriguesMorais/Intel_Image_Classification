@@ -1,4 +1,4 @@
-# Intel Image Classification Computer Vision 
+# Fast.AI - Intel Image Classification Computer Vision 
 
 Project of convolutional neural network studies using Fast.ai. 
 
